@@ -7,14 +7,14 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Flat Stone Tech
+title: FlatStone Tech
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Flat Stone Tech
+      title: FlatStone Tech
 
 description: Stylish Jekyll Theme
 author:
@@ -24,7 +24,7 @@ author:
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  bio: Minecraft Mods Reimagined
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
