@@ -38,4 +38,3 @@ BASE_PATH:
 
 gems:
   - jekyll-paginate
-theme: jekyll-theme-modernist
